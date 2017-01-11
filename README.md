@@ -5,8 +5,8 @@
 
 ### 00. 资料收集
 - 天气数据获取--[Weather](https://github.com/dev4love/Weather)
-- TTS--[tts-stray](https://github.com/tweetyf/tts-stray)
-- 语音播放--[PyAudio](http://people.csail.mit.edu/hubert/pyaudio/)
+- TTS--[tts-stray](https://github.com/tweetyf/tts-stray) or [gTTS](https://github.com/pndurette/gTTS)
+- 语音播放--[Pygame](http://pygame.org/) or [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home)
 
 
 ## LICENSE
